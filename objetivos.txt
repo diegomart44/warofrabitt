@@ -1,0 +1,9 @@
+Objetivos
+
+1- mejorar disparro con angulo
+2- ajustar disparo hacia el oponente
+3- agregar cazador, 
+4- crear menu de inicio
+5- modo multiplayer localhost y con servidor
+6- patentar
+7- ganar en $
